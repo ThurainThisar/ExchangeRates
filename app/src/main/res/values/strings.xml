@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Exchange Rates</string>
+    <string-array name="currencyArray">
+        <item>USD United States Dollar</item>
+        <item>EUR Euro</item>
+        <item>GBP British Pound Sterling</item>
+        <item>JPY Japan Yen</item>
+        <item>SGD Singapore Dollar</item>
+        <item>INR India Rupee</item>
+        <item>CNY China Yuan</item>
+        <item>HKD Hong Kong Dollar</item>
+        <item>KRW South Korea Won</item>
+        <item>THB Thai Baht</item>
+        <item>VND Vietnam Dong</item>
+        <item>PHP Philippines Peso</item>
+        <item>IDR Indonesia Rupiah</item>
+        <item>MYR Malaysia Ringgit</item>
+        <item>LAK Laos Kip</item>
+        <item>KHR Cambodia Riel</item>
+        <item>BND Brunei Dollar</item>
+        <item>AUD Australia Dollar</item>
+        <item>CAD Canada Dollar</item>
+        <item>AED Arab Emirates Dirham</item></string-array>
+
+    <string name="alert">မှတ်ချက်။   ။အင်တာနက်ဖွင့်ထားရန် လိုအပ်ပါသည်။</string>
+    <string name="about">Developed by Thurain Thisar.</string>
+
+    <string name="no_data">
+        <font size="20">No Data!   </font></string>
+    <string name="no_connection">
+        <font size="20">No Connection!   </font></string>
+</resources>
