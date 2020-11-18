@@ -1,3 +1,7 @@
+### NOTE
+
+This app is in **Burmese** language.
+
 ### README.md
 
 Before running this app
